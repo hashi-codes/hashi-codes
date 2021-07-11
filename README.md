@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hashi-codes
-- 👀 I’m interested in building awesome react projects
+- 👀 I’m interested in frontend design
 - 🌱 I’m currently learning reactJS and firebase
 - 💞️ I’m looking to collaborate on anything cool and bleeding edge
 - 📫 DM me
